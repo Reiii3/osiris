@@ -16,6 +16,41 @@
       "idGvr": "17",
       "subscriptionType": "premium",
       "expiredDate": "2025-12-31"
+    },
+    "18": {
+      "username": "Exo",
+      "idGvr": "18",
+      "subscriptionType": "unlimited"
+    },
+    "19": {
+      "username": "Exo",
+      "idGvr": "19",
+      "subscriptionType": "unlimited"
+    },
+    "20": {
+      "username": "Exo",
+      "idGvr": "20",
+      "subscriptionType": "unlimited"
+    },
+    "21": {
+      "username": "Exo",
+      "idGvr": "21",
+      "subscriptionType": "unlimited"
+    },
+    "22": {
+      "username": "Exo",
+      "idGvr": "22",
+      "subscriptionType": "unlimited"
+    },
+    "23": {
+      "username": "Exo",
+      "idGvr": "23",
+      "subscriptionType": "unlimited"
+    },
+    "24": {
+      "username": "Exo",
+      "idGvr": "24",
+      "subscriptionType": "unlimited"
     }
   }
 }
