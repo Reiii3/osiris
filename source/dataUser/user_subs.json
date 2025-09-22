@@ -1,1 +1,10 @@
-undefined
+{
+  "Users": {
+    "15": {
+      "username": "Reiii",
+      "idgv2r": "15",
+      "expiredDate": "",
+      "subscriptionType": "Unlimited"
+    }
+  }
+}
