@@ -1,6 +1,10 @@
 {
-  "username": "Exo",
-  "idgv2r": "45",
-  "expiredDate": "",
-  "subscriptionType": "Unlimited"
+  "Users": {
+    "45": {
+      "username": "Exo",
+      "idgv2r": "45",
+      "subscriptionType": "regular",
+      "expiredDate": ""
+    }
+  }
 }
