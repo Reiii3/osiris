@@ -1,21 +1,19 @@
 {
-  "Users": {
-    "15": {
-      "username": "ReiiEja",
-      "idGvr": "15",
-      "subscriptionType": "unlimited"
-    },
-    "16": {
-      "username": "Xeon",
-      "idGvr": "16",
-      "subscriptionType": "regular",
-      "expiredDate": "2022-12-31"
-    },
-    "17": {
-      "username": "Exo",
-      "idGvr": "17",
-      "subscriptionType": "premium",
-      "expiredDate": "2025-12-31"
-    }
+  "15": {
+    "username": "ReiiEja",
+    "idGvr": "15",
+    "subscriptionType": "unlimited"
+  },
+  "16": {
+    "username": "Xeon",
+    "idGvr": "16",
+    "subscriptionType": "regular",
+    "expiredDate": "2022-12-31"
+  },
+  "17": {
+    "username": "Exo",
+    "idGvr": "17",
+    "subscriptionType": "premium",
+    "expiredDate": "2025-12-31"
   }
 }
