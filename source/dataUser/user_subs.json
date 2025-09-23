@@ -23,6 +23,12 @@
       "idgv2r": "45",
       "subscriptionType": "Unlimited",
       "expiredDate": ""
+    },
+    "": {
+      "username": "",
+      "idgv2r": "",
+      "subscriptionType": "",
+      "expiredDate": ""
     }
   }
 }
